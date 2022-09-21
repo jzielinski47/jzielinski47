@@ -1,5 +1,7 @@
 ### Hey, I'm Jakub 👋
 
+I know: TypeScript JavaScript React Express.JS jQerry NodeJS
+
 <!--
 **jzielinski47/jzielinski47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
