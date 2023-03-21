@@ -1,10 +1,10 @@
 
 Hey, I'm Jakub. 
 
-I'm a developer and a web designer based in Poland. I'm passionate about user interface design and web development. I've been interested in simple game development in the past as well.
-
+I'm a developer and a web designer based in Poland. I'm passionate about user interface design and web development and that's what I love to do in my spare time. 
 Contact me: jzielinski47dev@gmail.com
 
+Frameworks: React, React-Native
 
 <!--
 **jzielinski47/jzielinski47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
