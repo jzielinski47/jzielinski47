@@ -1,10 +1,11 @@
+## Hey, I'm Jakub ✨
 
-Hey, I'm Jakub. 
+🧠 Applied computer science student at Cracow University of Technology<br />
+🏎️ PK Mech Power Formula Student Team member<br />
+📚 I create full-stack web applications<br />
+☕ As a former barista, I'm passionate about Java
 
-I'm a developer and a web designer based in Poland. I'm passionate about user interface design and web development and that's what I love to do in my spare time. 
-Contact me: jzielinski47dev@gmail.com
-
-Frameworks: React, React-Native
+Feel free to explore all my work, as it stands as a reflection of my journey as a developer.
 
 <!--
 **jzielinski47/jzielinski47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
