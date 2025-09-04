@@ -19,6 +19,6 @@ My current leading full-scale application is Altus Dashboard.
 | Project | Screenshot |
 |---|---|
 | I'm a member of the Electrical Engineering Team  responsible for software development for STM32 MCUs used across the Formula Student car, covering calibration, communication, control, and telemetry systems, with a focus on Power Train and Control Systems. | <img width="964" height="1285" alt="image" src="https://github.com/user-attachments/assets/b695efe5-2ae3-4b73-98f6-dbbedcf89e42" />
-|
+
 ### About me
 I’m an Applied Computer Science student and an active member of the Formula Student Racing Team. My passion for software engineering started in high school and has grown through building full-stack web and mobile applications, as well as exploring embedded systems.
