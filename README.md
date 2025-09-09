@@ -23,13 +23,13 @@ I’m an Applied Computer Science student and an active member of the Formula St
 #### Software Engineering
 ##### Web Development (full stack)
 ###### Frontend Development
-- TypeScript, JavaScript
-- ReactJS, React Native, Tailwind,
-- Vite, Webpack, NodeJS,
+- [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ReactJS](https://react.dev/), [React Native](https://reactnative.dev/), [Tailwind](https://tailwindcss.com/),
+- [Vite](https://vite.dev/), [Webpack](https://webpack.js.org/), [NodeJS](https://nodejs.org/en),
 ###### Backend Development
-- Java, TypeScript, JavaScript
-- Spring Boot, ExpressJS
+- [Java](https://www.java.com/en/), [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Spring Boot](https://spring.io/projects/spring-boot), [ExpressJS](https://expressjs.com/)
 
  #### UI/UX and Design
- - Figma 
- - Adobe Photoshop, Adobe Ilustrator, CorelDraw, Inkscape
+ - [Figma](https://www.figma.com/) 
+ - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Adobe Ilustrator](https://www.adobe.com/products/illustrator.html), [CorelDraw,](https://www.coreldraw.com/en/), [Inkscape](https://inkscape.org/)
