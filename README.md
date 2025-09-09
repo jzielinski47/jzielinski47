@@ -18,3 +18,18 @@ I’m an Applied Computer Science student and an active member of the Formula St
 |---|---|
 | Since 2024, I'm an active PK Mech Power Formula Student Racing Team member responsible for software development for STM32 MCUs used across the Formula Student car, covering architecture design, CAN communication, pedal calibration, telemetry, control systems and powertrain support. I've also maintained and updated software throughout Formula Student Alpe Adria 2025 and Formula Student Poland 2025 interrnational competitions, ensuring compliance with competition regulations. | <img width="964" height="1285" alt="image" src="https://github.com/user-attachments/assets/b695efe5-2ae3-4b73-98f6-dbbedcf89e42" />
 
+### Skills and tech stack
+
+#### Software Engineering
+##### Web Development (full stack)
+###### Frontend Development
+- TypeScript, JavaScript
+- ReactJS, React Native, Tailwind,
+- Vite, Webpack, NodeJS,
+###### Backend Development
+- Java, TypeScript, JavaScript
+- Spring Boot, ExpressJS
+
+ #### UI/UX and Design
+ - Figma 
+ - Adobe Photoshop, Adobe Ilustrator, CorelDraw, Inkscape
