@@ -31,7 +31,7 @@ I’m an Applied Computer Science student and an active member of the Formula St
 - [Spring Boot](https://spring.io/projects/spring-boot), [ExpressJS](https://expressjs.com/)
 
 ##### Embedded Software Development
-- [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [CMake](https://cmake.org/)
 - [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), [TouchGFX](https://www.st.com/en/development-tools/touchgfxdesigner.html)
 
  #### UI/UX and Design
