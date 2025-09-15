@@ -30,6 +30,10 @@ I’m an Applied Computer Science student and an active member of the Formula St
 - [Java](https://www.java.com/en/), [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Spring Boot](https://spring.io/projects/spring-boot), [ExpressJS](https://expressjs.com/)
 
+##### Embedded Software Development
+- [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), [TouchGFX](https://www.st.com/en/development-tools/touchgfxdesigner.html)
+
  #### UI/UX and Design
  - [Figma](https://www.figma.com/) 
  - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Adobe Ilustrator](https://www.adobe.com/products/illustrator.html), [CorelDraw,](https://www.coreldraw.com/en/), [Inkscape](https://inkscape.org/)
