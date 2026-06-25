@@ -1,16 +1,14 @@
 # Jakub Zieliński
 I’m an Applied Computer Science student and a Control Systems Engineer at PK Mech Power Formula Student Racing Team.
 
-### Skills and tech stack
+### Skillset
 
-#### Software Engineering
-##### Web Development (full stack)
-###### Frontend Development
+##### Frontend Development
 - [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [ReactJS](https://react.dev/), [React Native](https://reactnative.dev/), [Tailwind](https://tailwindcss.com/)
 - [Vite](https://vite.dev/), [Webpack](https://webpack.js.org/), [NodeJS](https://nodejs.org/en)
 
-###### Backend Development
+##### Backend Development
 - [Java](https://www.java.com/en/), [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Spring Boot](https://spring.io/projects/spring-boot), [ExpressJS](https://expressjs.com/)
 
