@@ -24,6 +24,6 @@ I’m an Applied Computer Science student and a Control Systems Engineer at PK M
 
 **PK Mech Power Formula Student Racing Team**
 
-Since 2024, I'm an active team member responsible for control systems development across the Formula Student car. My work covers architecture design, CAN communication, core systems logic, telemetry, and powertrain support. 
+Since 2024, I'm an active team member responsible for control systems development across the Formula Student car. My work covers architecture design, CAN communication, core systems logic, telemetry, PCB design and powertrain support. 
 
 I've also maintained and updated software throughout the Formula Student Alpe Adria 2025 and Formula Student Poland 2025 international competitions, ensuring strict compliance with competition regulations.
